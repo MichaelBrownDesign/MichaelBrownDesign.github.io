@@ -57,12 +57,12 @@ li.title{
 }
 
 .skills{
-  display: flex;
+  display: flex !important;
   margin-left: auto;
   margin-right: auto;
   justify-content: center;
-  border-collapse: separate;
-  border-spacing: 50px 0;
+  border-collapse: collapse;
+  border: none !important;
 }
 
 .skills-col{
