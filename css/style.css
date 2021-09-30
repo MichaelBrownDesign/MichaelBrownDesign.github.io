@@ -70,5 +70,5 @@ li.title{
 }
 
 .matrix{
-  display: flex;
+  display: flex !important;
 }
