@@ -39,11 +39,12 @@ h2.center-heading{
 }
 
 div.center-col{
+  justify-content: center;
   display: flex;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  justify-content: center;
+  margin: auto;
 }
 
 div.col{
