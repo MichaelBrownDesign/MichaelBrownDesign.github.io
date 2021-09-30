@@ -69,6 +69,6 @@ li.title{
   text-align:left;
 }
 
-.matrix{
+div.matrix{
   display: flex !important;
 }
