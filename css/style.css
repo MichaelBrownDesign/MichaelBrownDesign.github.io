@@ -68,3 +68,7 @@ li.title{
 .skills-col{
   text-align:left;
 }
+
+.matrix{
+  display: flex;
+}
