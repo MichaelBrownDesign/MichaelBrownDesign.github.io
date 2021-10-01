@@ -71,4 +71,5 @@ li.title{
 
 div.matrix{
   display: flex !important;
+  justify-content: center !important;
 }
